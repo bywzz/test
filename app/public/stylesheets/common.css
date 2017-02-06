@@ -1,0 +1,129 @@
+.upload-container {
+   /* padding: 5px 10px;  */
+}
+.upload-item {
+    margin-top: 10px;
+    padding: 5px;
+    border-bottom: 1px solid #a1a1a1;
+}
+
+.upload-item-file {
+	margin: 0 10px;
+	padding-top: 5px;
+	border-top: 1px dashed #eaeaea;
+}
+.upload-action {	
+    display: line-block;
+	float: right;
+	margin-right: 10px;
+	height: 22px;
+	width: 60px;
+	text-align: center;
+	line-height: 22px;
+	background-color: #eaeaea;
+	color: #555;
+	transition: all .5s ease-out;
+}
+
+.upload-action:hover {
+
+}
+.upload-desc {
+	display: block;
+	height: 22px;
+	line-height: 22px;
+	font-weight: bold;
+	margin-bottom: 5px;
+}
+.upload-fileName {	
+	display: inline-block;
+	float: left;
+	height: 22px
+	line-height: 22px;
+	
+}
+.upload-title {
+	display: inline-block;
+	float: left;
+	min-width: 100px;
+	height: 22px;
+	line-height: 22px;
+	margin-right: 10px;
+    font-size: 12px;
+    text-align: left;
+}
+
+.upload-content {
+	
+}
+
+.figure {
+    height: 60px;
+    overflow: hidden;
+	float: left;
+	margin-right: 20px;
+}
+.figure-icon {
+  float: left;
+  height: 60px;
+  width: 50px;
+  background-color: #DC143C;
+  border-radius: 2px 0 0 2px;
+  text-align: center;
+}
+.figure-icon i{
+  line-height: 60px;
+  color: #8E0D27;
+}
+.figure-content {
+  float: left;
+  height: 60px;
+  box-sizing: border-box;
+  width: 90px;
+  border: 1px solid #efefef;
+}
+.figure-content .figure-num {
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Tahoma, Arial, Helvetica, Sans-serif;
+  padding: 5px;
+  text-align: center;
+}
+.figure-content .figure-text {
+  font-size: 12px;
+  padding: 5px;
+  text-align: center;
+  color: #777;
+}
+.figure-icon.red {
+  background-color: #DC143C;
+}
+.figure-icon.red i{
+  color: #8E0D27;
+}
+.figure-icon.blue {
+   background-color: #00A0B1;
+}
+.figure-icon.blue i{
+  color: #00535C;
+}
+.figure-icon.green {
+  background-color: #8CBF26;
+}
+.figure-icon.green i{
+  color: #59821D;
+}
+
+.figure-icon.purple {
+  background-color: #A700AE;
+}
+.figure-icon.purple i{
+  color: #560059;
+}
+.callout h4 {
+  padding: 5px 0;
+  color: #0099ff;
+} 
+.callout p {
+  padding: 2px 0;
+}

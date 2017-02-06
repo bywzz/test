@@ -1,0 +1,5 @@
+Express server listening on port 3000
+[90mGET / [36m304 [90m303ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m6ms[0m
+[90mGET / [36m304 [90m21ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
